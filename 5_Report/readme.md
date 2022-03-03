@@ -104,6 +104,30 @@ This project is implemented to do the Employe's's datas adding, deleting or by e
 
 ![employee architecture](https://user-images.githubusercontent.com/99025340/156522317-755ed46a-4737-489f-bc08-87db512ed70b.JPG)
 
+# TEST PLAN 
+# High Level Test Plan
+| Test ID | Description | Expected I/P |
+|:--------:|:-----------:|:------------:|
+|HL1|LOGIN MODULES|CATEGORY,ID|
+|HL2|DELETE MODULES|CATEGORY,ID|
+|HL3|LIST MODULES|CATEGORY,ID|
+|HL4|SEARCH MODULES|CATEGORY,ID|
+|HL4|ADDED MODULES|CATEGORY,ID|
+|HL5|EDIT MODULES|CATEGORY,ID|
+
+# Low Level Test Plan
+| Test ID | Description |Expected I/P |
+|:--------:|:----------:|:------------:|
+|LLO1|LOGIN MODULE|CATEGORY, ID|
+|LL02|DELITING EMPLOYE'S DATA|CATEGORY,ID|
+|LL03|LIST OUT  EMPLOYE'S DATA|CATEGORY,ID|
+|LL04|SEARCH OUT  EMPLOYE'S DATA|CATEGORY,ID|
+|LL04|ADDING NEW  EMPLOYE'S DATA|CATEGORY,ID|
+|LL05|EDIT EXISTING EMPLOYE'S DATA|CATEGORY,ID|
+
+
+
+
 
 
 
