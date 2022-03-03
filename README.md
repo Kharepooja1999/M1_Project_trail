@@ -6,4 +6,7 @@
 
 [![Build-Linux](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Build.yml/badge.svg)](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Build.yml)
 
+[![CPP-Check](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Cpp.yml)
+
+
 
