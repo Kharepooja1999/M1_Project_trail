@@ -8,5 +8,7 @@
 
 [![CPP-Check](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Cpp.yml)
 
+[![Unit-Testing](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Unit.yml/badge.svg)](https://github.com/Kharepooja1999/M1_Project_trail/actions/workflows/Unit.yml)
+
 
 
