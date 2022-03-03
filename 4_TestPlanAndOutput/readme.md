@@ -1,1 +1,22 @@
+# TEST PLAN 
+# High Level Test Plan
+| Test ID | Description | Expected I/P |
+|:--------:|:-----------:|:------------:|
+|HL1|LOGIN MODULES|CATEGORY,ID|
+|HL2|DELETE MODULES|CATEGORY,ID|
+|HL3|LIST MODULES|CATEGORY,ID|
+|HL4|SEARCH MODULES|CATEGORY,ID|
+|HL4|ADDED MODULES|CATEGORY,ID|
+|HL5|EDIT MODULES|CATEGORY,ID|
+
+# Low Level Test Plan
+| Test ID | Description |Expected I/P |
+|:--------:|:----------:|:------------:|
+|LLO1|LOGIN MODULE|CATEGORY, ID|
+|LL02|DELITING Employe's DATAS|CATEGORY,ID|
+|LL03|LIST OUT  Employe's DATAS|CATEGORY,ID|
+|LL04|SEARCH OUT  Employe's DATAS|CATEGORY,ID|
+|LL04|ADDING NEW  Employe's DATAS|CATEGORY,ID|
+|LL05|EDIT EXISTING  Employe's DATAS|CATEGORY,ID|
+
 
